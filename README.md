@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaceyChromeo
-- 🌱 I’m currently learning code at 42 Nice 
-- 📫 You can reach me to pcharlesjacob@gmail.com
+- 🌱 I’m currently working as SRE in Amadeus 
+- 📫 You can reach me to pcjacob@pm.me
 
 <!---
 PaceyChromeo/PaceyChromeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
